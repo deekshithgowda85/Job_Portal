@@ -1,0 +1,103 @@
+version: "3.9"
+
+services:
+  # ── Redis ──────────────────────────────────────────────────────────────────
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    command: redis-server --appendonly yes --maxmemory 512mb --maxmemory-policy allkeys-lru
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ── API Service (FastAPI + Scheduler) ─────────────────────────────────────
+  crawler-api:
+    build: .
+    command: uvicorn main:app --host 0.0.0.0 --port 8000 --workers 1
+    env_file: .env
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+    ports:
+      - "8000:8000"
+    depends_on:
+      redis:
+        condition: service_healthy
+    restart: unless-stopped
+    volumes:
+      - ./profile.yaml:/app/profile.yaml:ro
+      - ./companies/companies.yaml:/app/companies/companies.yaml:ro
+      - ./companies/company_urls.yaml:/app/companies/company_urls.yaml:ro
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # ── Celery Worker (ATS queues) ────────────────────────────────────────────
+  crawler-worker:
+    build: .
+    command: >
+      celery -A celery_app worker
+      --loglevel=info
+      -Q crawl,default
+      --concurrency=4
+      --max-tasks-per-child=50
+    env_file: .env
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+    depends_on:
+      redis:
+        condition: service_healthy
+    restart: unless-stopped
+    volumes:
+      - ./profile.yaml:/app/profile.yaml:ro
+      - ./companies/companies.yaml:/app/companies/companies.yaml:ro
+      - ./companies/company_urls.yaml:/app/companies/company_urls.yaml:ro
+    # Playwright needs /dev/shm for Chromium
+    shm_size: "1gb"
+
+  # ── Celery Worker (company URLs only) ─────────────────────────────────────
+  crawler-generic-worker:
+    build: .
+    command: >
+      celery -A celery_app worker
+      --loglevel=info
+      -Q generic
+      --concurrency=2
+      --max-tasks-per-child=50
+    env_file: .env
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+    depends_on:
+      redis:
+        condition: service_healthy
+    restart: unless-stopped
+    volumes:
+      - ./profile.yaml:/app/profile.yaml:ro
+      - ./companies/companies.yaml:/app/companies/companies.yaml:ro
+      - ./companies/company_urls.yaml:/app/companies/company_urls.yaml:ro
+    shm_size: "1gb"
+
+  # ── Flower (Celery monitoring UI) ──────────────────────────────────────────
+  flower:
+    image: mher/flower:2.0
+    command: >
+      celery
+      --broker=redis://redis:6379/0
+      flower
+      --port=5555
+      --basic_auth=admin:admin
+    ports:
+      - "5555:5555"
+    depends_on:
+      redis:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  redis_data:

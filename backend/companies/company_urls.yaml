@@ -1,0 +1,1616 @@
+# Cleaned company careers links extracted from the supplied company list.
+# Duplicate URLs have been removed; every entry is a generic career portal crawl target.
+[
+  {
+    "company": "Accolite software",
+    "url": "https://www.accolite.com/careers"
+  },
+  {
+    "company": "Accord software",
+    "url": "https://accord-global.com/careers.html"
+  },
+  {
+    "company": "Adobe",
+    "url": "https://www.adobe.com/careers.html"
+  },
+  {
+    "company": "Able",
+    "url": "https://able.co/team"
+  },
+  {
+    "company": "Abstract",
+    "url": "https://angel.co/company/abstract/jobs"
+  },
+  {
+    "company": "Acko",
+    "url": "https://acko.hirexp.com/"
+  },
+  {
+    "company": "Accredible",
+    "url": "https://careers.accredible.com/"
+  },
+  {
+    "company": "Affinidi",
+    "url": "https://www.affinidi.com/careers"
+  },
+  {
+    "company": "Agile Solutions",
+    "url": "http://agilesolutions.com/careers-2/"
+  },
+  {
+    "company": "Agnikul Cosmos",
+    "url": "https://agnikul.in/#/career"
+  },
+  {
+    "company": "Airbase",
+    "url": "https://www.airbase.com/careers"
+  },
+  {
+    "company": "Airbnb",
+    "url": "https://careers.airbnb.com/"
+  },
+  {
+    "company": "Airbus",
+    "url": "https://www.airbus.com/careers.html"
+  },
+  {
+    "company": "Airtel x labs",
+    "url": "https://careers.airtel.com/"
+  },
+  {
+    "company": "Ajio",
+    "url": "https://www.ajio.com/ajio-careers"
+  },
+  {
+    "company": "Akamai",
+    "url": "https://www.akamai.com/careers"
+  },
+  {
+    "company": "Alstom",
+    "url": "https://www.alstom.com/careers"
+  },
+  {
+    "company": "Alpha-grep",
+    "url": "https://www.alpha-grep.com/career/"
+  },
+  {
+    "company": "Alphonso",
+    "url": "https://lgads.tv/careers/"
+  },
+  {
+    "company": "Amadeus labs",
+    "url": "https://jobs.amadeus.com/"
+  },
+  {
+    "company": "Amagi",
+    "url": "https://www.amagi.com/careers"
+  },
+  {
+    "company": "Amazon",
+    "url": "https://www.amazon.jobs/en/"
+  },
+  {
+    "company": "Amdocs",
+    "url": "https://asset.amdocs.com/careers/"
+  },
+  {
+    "company": "American express",
+    "url": "https://www.americanexpress.com/en-us/careers/"
+  },
+  {
+    "company": "Amway",
+    "url": "https://www.amway.in/about-amway/careers"
+  },
+  {
+    "company": "Angelone",
+    "url": "https://www.angelone.in/careers"
+  },
+  {
+    "company": "Ansys",
+    "url": "https://www.ansys.com/en-in/careers"
+  },
+  {
+    "company": "Apna",
+    "url": "https://www.instahyre.com/jobs-at-apna/"
+  },
+  {
+    "company": "App Dynamics",
+    "url": "https://www.appdynamics.com/company/careers/india"
+  },
+  {
+    "company": "Appen",
+    "url": "https://appen.com/jobs/"
+  },
+  {
+    "company": "Apple",
+    "url": "https://www.apple.com/careers/us/"
+  },
+  {
+    "company": "AppInventiv",
+    "url": "https://appinventiv.com/career/"
+  },
+  {
+    "company": "Aptiv",
+    "url": "https://jobs.aptiv.com/"
+  },
+  {
+    "company": "AQR",
+    "url": "https://www.aqr.com/About-Us/Careers"
+  },
+  {
+    "company": "Arcesium",
+    "url": "https://www.arcesium.com/careers.html"
+  },
+  {
+    "company": "Arista Networks",
+    "url": "https://www.arista.com/en/careers"
+  },
+  {
+    "company": "Aryaka networks",
+    "url": "https://www.linkedin.com/company/aryaka-networks/jobs?originalSubdomain=in"
+  },
+  {
+    "company": "Asteria Aerospace Ltd",
+    "url": "https://asteria.co.in/careers/"
+  },
+  {
+    "company": "Athena Health",
+    "url": "https://www.athenahealth.com/careers"
+  },
+  {
+    "company": "Atlan",
+    "url": "https://atlan.com/careers/"
+  },
+  {
+    "company": "Atlassian",
+    "url": "https://www.atlassian.com/company/careers"
+  },
+  {
+    "company": "Auzmor",
+    "url": "https://auzmor.com/career/"
+  },
+  {
+    "company": "Avail finance",
+    "url": "https://availfinance.in/opportunities/"
+  },
+  {
+    "company": "Avalara",
+    "url": "https://www.avalara.com/us/en/about/jobs/job-openings.html"
+  },
+  {
+    "company": "Avaya",
+    "url": "https://careers.avaya.com/"
+  },
+  {
+    "company": "Barclays",
+    "url": "https://home.barclays/careers/"
+  },
+  {
+    "company": "Bain & Co",
+    "url": "https://www.bain.com/careers/"
+  },
+  {
+    "company": "BARC India",
+    "url": "https://www.barcindia.co.in/life-at-barc"
+  },
+  {
+    "company": "bankbazaar",
+    "url": "https://www.bankbazaar.com/careers.html"
+  },
+  {
+    "company": "Bazaarvoice",
+    "url": "https://www.bazaarvoice.com/company/careers/"
+  },
+  {
+    "company": "BCG",
+    "url": "https://careers.bcg.com/"
+  },
+  {
+    "company": "Bellatrix Aerospace",
+    "url": "http://www.bellatrixaerospace.com/"
+  },
+  {
+    "company": "Benchmark",
+    "url": "https://benchmarkit.zohorecruit.com/jobs/Careers"
+  },
+  {
+    "company": "Better",
+    "url": "https://better.com/about-us/careers"
+  },
+  {
+    "company": "BharatPe",
+    "url": "https://bharatpe.com/career"
+  },
+  {
+    "company": "Bidgely",
+    "url": "https://www.bidgely.com/bidgely-career-opportunities/"
+  },
+  {
+    "company": "BigBasket",
+    "url": "https://careers.bigbasket.com/"
+  },
+  {
+    "company": "BlackBuck",
+    "url": "https://www.blackbuck.com/careers.php"
+  },
+  {
+    "company": "Blackrock",
+    "url": "https://careers.blackrock.com/"
+  },
+  {
+    "company": "Block Inc",
+    "url": "https://block.xyz/careers"
+  },
+  {
+    "company": "Bloomberg LP",
+    "url": "https://careers.bloomberg.com/job/search"
+  },
+  {
+    "company": "BlueJeans",
+    "url": "https://www.bluejeans.com/careers"
+  },
+  {
+    "company": "Bluestacks",
+    "url": "https://www.bluestacks.com/work-at-bluestacks.html"
+  },
+  {
+    "company": "BMC software",
+    "url": "https://www.bmc.com/careers/careers.html"
+  },
+  {
+    "company": "BNY Mellon",
+    "url": "https://jobs.bnymellon.com/"
+  },
+  {
+    "company": "Boeing",
+    "url": "https://jobs.boeing.com/"
+  },
+  {
+    "company": "Booking.com",
+    "url": "https://jobs.booking.com/careers"
+  },
+  {
+    "company": "Bosch",
+    "url": "https://www.bosch.in/careers/"
+  },
+  {
+    "company": "Bottemline Technologies",
+    "url": "https://www.bottomline.com/apac/about/careers"
+  },
+  {
+    "company": "Bounce",
+    "url": "https://careers-bounce.peoplestrong.com/portal/job/joblist"
+  },
+  {
+    "company": "Box",
+    "url": "https://www.box.com/en-in/careers"
+  },
+  {
+    "company": "Brahmastra Aerospace",
+    "url": "https://www.brahmastraspace.org/career"
+  },
+  {
+    "company": "Browser stack",
+    "url": "https://www.browserstack.com/careers"
+  },
+  {
+    "company": "BukuWarung",
+    "url": "https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579"
+  },
+  {
+    "company": "ByteDance",
+    "url": "https://jobs.bytedance.com/en"
+  },
+  {
+    "company": "Cadence",
+    "url": "https://www.cadence.com/en_US/home/company/careers.html"
+  },
+  {
+    "company": "Capillary",
+    "url": "https://www.capillarytech.com/about-us/careers/"
+  },
+  {
+    "company": "Capital One",
+    "url": "https://www.capitalonecareers.com/"
+  },
+  {
+    "company": "CarDekho",
+    "url": "https://careers.cardekho.com/"
+  },
+  {
+    "company": "Careem",
+    "url": "https://www.careem.com/en-ae/careers/"
+  },
+  {
+    "company": "CarWale",
+    "url": "https://www.carwale.com/career/"
+  },
+  {
+    "company": "Cashfree",
+    "url": "https://www.cashfree.com/careers"
+  },
+  {
+    "company": "Cimpress",
+    "url": "https://cimpress.com/careers/"
+  },
+  {
+    "company": "Celigo",
+    "url": "https://www.celigo.com/company/careers/"
+  },
+  {
+    "company": "Cerner",
+    "url": "https://careers.cerner.com/"
+  },
+  {
+    "company": "Chargebee",
+    "url": "https://careers.chargebee.com/jobs/"
+  },
+  {
+    "company": "Chronus",
+    "url": "https://chronus.com/about-us/careers"
+  },
+  {
+    "company": "Cisco",
+    "url": "https://jobs.cisco.com/"
+  },
+  {
+    "company": "Citadel",
+    "url": "https://www.citadel.com/careers/open-positions/"
+  },
+  {
+    "company": "Citadel Securities",
+    "url": "https://www.citadelsecurities.com/careers/open-roles/"
+  },
+  {
+    "company": "Citrix",
+    "url": "https://jobs.citrix.com/"
+  },
+  {
+    "company": "Classplus",
+    "url": "https://www.linkedin.com/jobs/classplus-jobs/?originalSubdomain=in"
+  },
+  {
+    "company": "ClearGlass",
+    "url": "https://clearglass.com/careers/"
+  },
+  {
+    "company": "Cleartrip",
+    "url": "https://careers.cleartrip.com/#!/"
+  },
+  {
+    "company": "Cloudera",
+    "url": "https://www.cloudera.com/careers.html"
+  },
+  {
+    "company": "Codenation innovation labs",
+    "url": "http://codenation.co.in/hiringprocess.html"
+  },
+  {
+    "company": "CodingNinjas",
+    "url": "https://www.linkedin.com/jobs/coding-ninjas-jobs/?originalSubdomain=in"
+  },
+  {
+    "company": "Cognizant",
+    "url": "https://careers.cognizant.com/in/en"
+  },
+  {
+    "company": "CoinBase",
+    "url": "https://www.coinbase.com/careers"
+  },
+  {
+    "company": "CoinDCX",
+    "url": "https://careers.coindcx.com/"
+  },
+  {
+    "company": "Coinswitch kuber",
+    "url": "https://recruiterflow.com/coinswitch/jobs"
+  },
+  {
+    "company": "Commvault",
+    "url": "https://careers.commvault.com/"
+  },
+  {
+    "company": "Continental",
+    "url": "https://www.continental.com/en/career/"
+  },
+  {
+    "company": "Contra",
+    "url": "https://contra.com/careers"
+  },
+  {
+    "company": "Coupang",
+    "url": "https://rocketyourcareer.usa.coupang.com/"
+  },
+  {
+    "company": "Cradlepoint",
+    "url": "https://cradlepoint.com/about-us/careers/job-listings/"
+  },
+  {
+    "company": "Cred",
+    "url": "https://careers.cred.club/"
+  },
+  {
+    "company": "Credit Suisse",
+    "url": "https://www.credit-suisse.com/careers/en/apply.html"
+  },
+  {
+    "company": "Crestron",
+    "url": "https://www.crestron.com/About/careers-jobs-employment-opportunities"
+  },
+  {
+    "company": "Crowdstrike",
+    "url": "https://www.crowdstrike.com/careers/"
+  },
+  {
+    "company": "CSS Corp",
+    "url": "https://www.csscorp.com/company/careers/"
+  },
+  {
+    "company": "cure.fit",
+    "url": "https://www.cult.fit/careers"
+  },
+  {
+    "company": "Cvent",
+    "url": "https://www.cvent.com/en/careers"
+  },
+  {
+    "company": "DailyHunt",
+    "url": "https://careers.dailyhunt.com/#!/"
+  },
+  {
+    "company": "Dashlane",
+    "url": "https://www.dashlane.com/about/careers"
+  },
+  {
+    "company": "Databricks",
+    "url": "https://databricks.com/company/careers/open-positions"
+  },
+  {
+    "company": "Dataminr",
+    "url": "https://www.dataminr.com/careers"
+  },
+  {
+    "company": "DBS",
+    "url": "https://www.dbs.com/careers/default.page"
+  },
+  {
+    "company": "D. E. Shaw & Co.",
+    "url": "https://www.deshawindia.com/careers/career-development"
+  },
+  {
+    "company": "DealShare",
+    "url": "https://www.dealshare.in/careers#home"
+  },
+  {
+    "company": "Delhivery",
+    "url": "https://www.delhivery.com/careers/"
+  },
+  {
+    "company": "Dell",
+    "url": "https://jobs.dell.com/"
+  },
+  {
+    "company": "Deutsche Bank",
+    "url": "https://careers.db.com/"
+  },
+  {
+    "company": "Dhruva Space",
+    "url": "https://angel.co/company/dhruvaspace"
+  },
+  {
+    "company": "Dialpad",
+    "url": "https://www.dialpad.com/careers/"
+  },
+  {
+    "company": "Directi",
+    "url": "https://careers.directi.com/"
+  },
+  {
+    "company": "digit",
+    "url": "https://digit.co/careers"
+  },
+  {
+    "company": "Discord",
+    "url": "https://discord.com/jobs"
+  },
+  {
+    "company": "Discovery inc",
+    "url": "https://jobs.discovery.com/careers-home/"
+  },
+  {
+    "company": "Disney",
+    "url": "https://jobs.disneycareers.com/location/india-jobs/391-28648/1269750/2"
+  },
+  {
+    "company": "DoorDash",
+    "url": "https://careers.doordash.com/"
+  },
+  {
+    "company": "DP World",
+    "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions"
+  },
+  {
+    "company": "DRDO",
+    "url": "https://www.drdo.gov.in/careers"
+  },
+  {
+    "company": "Dream11",
+    "url": "https://www.dreamsports.group/careers"
+  },
+  {
+    "company": "droom",
+    "url": "https://droom.in/career"
+  },
+  {
+    "company": "Dropbox",
+    "url": "https://www.dropbox.com/jobs"
+  },
+  {
+    "company": "Druva",
+    "url": "https://www.druva.com/about/careers/"
+  },
+  {
+    "company": "Dukaan",
+    "url": "https://angel.co/company/dukaan-app/jobs"
+  },
+  {
+    "company": "Dunzo",
+    "url": "https://www.dunzo.com/careers#jobs"
+  },
+  {
+    "company": "DuPont",
+    "url": "https://careers.dupont.com/us/en"
+  },
+  {
+    "company": "EA Games",
+    "url": "https://www.ea.com/careers"
+  },
+  {
+    "company": "Enfussion",
+    "url": "https://enfusion.com/careers/"
+  },
+  {
+    "company": "Envestnet Yoodlee",
+    "url": "https://www.yodlee.com/oceania/india-careers"
+  },
+  {
+    "company": "Ericsson",
+    "url": "https://www.ericsson.com/en/careers"
+  },
+  {
+    "company": "Eurofins",
+    "url": "https://careers.eurofins.com/in/"
+  },
+  {
+    "company": "EXL Healthcare",
+    "url": "https://exlservice.com/careers"
+  },
+  {
+    "company": "Expedia",
+    "url": "https://lifeatexpediagroup.com/jobs/"
+  },
+  {
+    "company": "EY",
+    "url": "https://careers.ey.com/"
+  },
+  {
+    "company": "EyeROV",
+    "url": "https://www.eyerov.com/careers/"
+  },
+  {
+    "company": "F5",
+    "url": "https://www.f5.com/company/careers/"
+  },
+  {
+    "company": "factset",
+    "url": "https://www.factset.com/careers"
+  },
+  {
+    "company": "FamPay",
+    "url": "https://fampay.in/careers"
+  },
+  {
+    "company": "Fidelity investments",
+    "url": "https://jobs.fidelity.com/"
+  },
+  {
+    "company": "FireEye inc",
+    "url": "https://www.fireeye.com/company/jobs.html"
+  },
+  {
+    "company": "Fischer Jordan",
+    "url": "https://fischerjordan.com/careers/"
+  },
+  {
+    "company": "fiserv",
+    "url": "https://www.careers.fiserv.com/"
+  },
+  {
+    "company": "Flexport",
+    "url": "https://www.flexport.com/careers/jobs/"
+  },
+  {
+    "company": "Flipkart",
+    "url": "https://www.flipkartcareers.com/"
+  },
+  {
+    "company": "FlyFin",
+    "url": "https://www.linkedin.com/company/flyfin-ai/jobs/"
+  },
+  {
+    "company": "Fractal",
+    "url": "https://fractal.ai/job-openings/"
+  },
+  {
+    "company": "Frappe Technologies",
+    "url": "https://frappe.io/careers"
+  },
+  {
+    "company": "FreeCharge",
+    "url": "https://careers.freecharge.in/"
+  },
+  {
+    "company": "Freshworks",
+    "url": "https://www.freshworks.com/company/life-at-freshworks/careers/"
+  },
+  {
+    "company": "Furlenco",
+    "url": "https://jobs.furlenco.com/"
+  },
+  {
+    "company": "fyle",
+    "url": "https://www.fylehq.com/company/team/join"
+  },
+  {
+    "company": "Fico",
+    "url": "https://www.fico.com/en/careers"
+  },
+  {
+    "company": "Gartner",
+    "url": "https://jobs.gartner.com/"
+  },
+  {
+    "company": "Garuda Aerospace private Ltd",
+    "url": "https://www.garudaaerospace.com/"
+  },
+  {
+    "company": "GeeksForGeeks",
+    "url": "https://www.geeksforgeeks.org/careers/?"
+  },
+  {
+    "company": "GE",
+    "url": "https://www.ge.com/in/careers/opportunities"
+  },
+  {
+    "company": "GE Healthcare",
+    "url": "https://jobs.gecareers.com/healthcare/global/en"
+  },
+  {
+    "company": "Ghost",
+    "url": "https://careers.ghost.org/"
+  },
+  {
+    "company": "Github",
+    "url": "https://github.com/about/careers"
+  },
+  {
+    "company": "Gitlab",
+    "url": "https://about.gitlab.com/jobs/"
+  },
+  {
+    "company": "GoDaddy",
+    "url": "https://careers.godaddy.com/"
+  },
+  {
+    "company": "GoDigit",
+    "url": "https://www.godigit.com/"
+  },
+  {
+    "company": "Godrej Aerospace",
+    "url": "https://www.godrej.com/godrejandboyce/gnb-careers"
+  },
+  {
+    "company": "Gojek",
+    "url": "https://career.gojek.com/"
+  },
+  {
+    "company": "Goldman Sachs",
+    "url": "https://www.goldmansachs.com/careers/"
+  },
+  {
+    "company": "Google",
+    "url": "https://careers.google.com/"
+  },
+  {
+    "company": "Global Logic",
+    "url": "https://www.globallogic.com/in/careers/"
+  },
+  {
+    "company": "Grab",
+    "url": "https://grab.careers/"
+  },
+  {
+    "company": "Gravitont Rading",
+    "url": "https://www.gravitontrading.com/careers.html"
+  },
+  {
+    "company": "Groupon",
+    "url": "https://www.grouponcareers.com/"
+  },
+  {
+    "company": "Grofers",
+    "url": "https://grofers.com/careers/"
+  },
+  {
+    "company": "Groww",
+    "url": "https://groww.skillate.com/"
+  },
+  {
+    "company": "Hackerearth",
+    "url": "https://www.hackerearth.com/careers/"
+  },
+  {
+    "company": "HackerRank",
+    "url": "https://www.hackerrank.com/careers/"
+  },
+  {
+    "company": "Hashedin",
+    "url": "https://hashedin.com/careers/"
+  },
+  {
+    "company": "HBO",
+    "url": "https://warnermediacareers.com/hbo-jobs"
+  },
+  {
+    "company": "HealthAsyst",
+    "url": "https://www.healthasyst.com/careers/"
+  },
+  {
+    "company": "Healthify me",
+    "url": "https://www.healthifyme.com/careers/"
+  },
+  {
+    "company": "HERE",
+    "url": "https://www.here.com/careers"
+  },
+  {
+    "company": "Hexagone",
+    "url": "https://hexagon.com/about/careers"
+  },
+  {
+    "company": "Hotstar",
+    "url": "https://tech.hotstar.com/"
+  },
+  {
+    "company": "Honeywell",
+    "url": "https://careers.honeywell.com/"
+  },
+  {
+    "company": "HP",
+    "url": "https://jobs.hp.com/"
+  },
+  {
+    "company": "IBM",
+    "url": "https://www.ibm.com/in-en/employment/"
+  },
+  {
+    "company": "IdeaForge",
+    "url": "https://www.ideaforge.co.in/career/"
+  },
+  {
+    "company": "IHS Markit",
+    "url": "https://careers.ihsmarkit.com/"
+  },
+  {
+    "company": "Impact Analytics",
+    "url": "https://www.impactanalytics.co/join-us/"
+  },
+  {
+    "company": "Indeed",
+    "url": "https://in.indeed.com/cmp/Indeed"
+  },
+  {
+    "company": "India Mart",
+    "url": "https://careers.indiamart.com/"
+  },
+  {
+    "company": "Infor",
+    "url": "https://www.infor.com/nordics/about/careers"
+  },
+  {
+    "company": "Informatica",
+    "url": "https://informatica.gr8people.com/jobs"
+  },
+  {
+    "company": "Infospoke",
+    "url": "http://www.infospoke.in/careers.html"
+  },
+  {
+    "company": "Inmobi",
+    "url": "https://www.inmobi.com/company/careers/"
+  },
+  {
+    "company": "Innovaccer",
+    "url": "https://innovaccer.com/careers/"
+  },
+  {
+    "company": "Intel",
+    "url": "https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html"
+  },
+  {
+    "company": "Intellika",
+    "url": "https://www.intellika.in/careers/"
+  },
+  {
+    "company": "Intuit",
+    "url": "https://www.intuit.com/careers/"
+  },
+  {
+    "company": "IP Infusion",
+    "url": "https://www.ipinfusion.com/career/"
+  },
+  {
+    "company": "ISRO",
+    "url": "https://www.isro.gov.in/careers"
+  },
+  {
+    "company": "iQuanti",
+    "url": "https://www.iquanti.com/contact-us/careers/"
+  },
+  {
+    "company": "Jaguar",
+    "url": "https://www.jaguarlandrovercareers.com/"
+  },
+  {
+    "company": "Jio",
+    "url": "https://careers.jio.com/"
+  },
+  {
+    "company": "JM Financial",
+    "url": "https://jmfl.com/careers"
+  },
+  {
+    "company": "JP Morgan",
+    "url": "https://careers.jpmorgan.com/IN/en/home"
+  },
+  {
+    "company": "Juniper networks",
+    "url": "https://www.juniper.net/us/en/company/culture-careers.html"
+  },
+  {
+    "company": "Jupiter money",
+    "url": "https://jobs.lever.co/jupiter"
+  },
+  {
+    "company": "Juspay",
+    "url": "https://www.juspay.in/careers/"
+  },
+  {
+    "company": "Jumbotail",
+    "url": "https://jumbotail.com/careers/"
+  },
+  {
+    "company": "Kantar",
+    "url": "https://www.kantar.com/careers"
+  },
+  {
+    "company": "Kesari bharat",
+    "url": "https://www.linkedin.com/in/deepak-sharda-6594561b1/"
+  },
+  {
+    "company": "Keyvalue",
+    "url": "https://keyvalue.systems/"
+  },
+  {
+    "company": "Khatabook",
+    "url": "https://khatabook.com/hiring"
+  },
+  {
+    "company": "khoros",
+    "url": "https://khoros.com/about/careers"
+  },
+  {
+    "company": "KLA Tencor",
+    "url": "https://www.kla-tencor.com/careers"
+  },
+  {
+    "company": "Koch",
+    "url": "https://jobs.kochcareers.com/"
+  },
+  {
+    "company": "Lenskart",
+    "url": "https://hiring.lenskart.com/"
+  },
+  {
+    "company": "Leap Finance",
+    "url": "https://leapfinance.freshteam.com/jobs"
+  },
+  {
+    "company": "Licious",
+    "url": "https://www.careers.in/"
+  },
+  {
+    "company": "LinkedIn",
+    "url": "https://careers.linkedin.com/"
+  },
+  {
+    "company": "LogicFruit",
+    "url": "https://www.logic-fruit.com/"
+  },
+  {
+    "company": "Logicmonitor",
+    "url": "https://www.logicmonitor.com/careers"
+  },
+  {
+    "company": "Lowe's companies, inc",
+    "url": "https://corporate.lowes.com/careers/search-apply"
+  },
+  {
+    "company": "Magicpin",
+    "url": "https://magicpin.darwinbox.in/ms/candidate/careers"
+  },
+  {
+    "company": "MakeMyTrip",
+    "url": "https://careers.makemytrip.com/"
+  },
+  {
+    "company": "Mastercard",
+    "url": "https://www.mastercard.us/en-us/vision/who-we-are/careers.html"
+  },
+  {
+    "company": "Mastery",
+    "url": "https://mastery.net/careers/"
+  },
+  {
+    "company": "Mathworks",
+    "url": "https://in.mathworks.com/company/jobs/opportunities.html"
+  },
+  {
+    "company": "McKinsey",
+    "url": "https://www.mckinsey.com/in/careers-in-india"
+  },
+  {
+    "company": "Media.net",
+    "url": "https://careers.media.net/"
+  },
+  {
+    "company": "Meta",
+    "url": "https://www.metacareers.com/"
+  },
+  {
+    "company": "Meesho",
+    "url": "https://careers.meesho.com/"
+  },
+  {
+    "company": "Memory",
+    "url": "https://memory.ai/jobs"
+  },
+  {
+    "company": "Micron",
+    "url": "https://micron.eightfold.ai/careers"
+  },
+  {
+    "company": "Microsoft",
+    "url": "https://careers.microsoft.com/us/en"
+  },
+  {
+    "company": "MindTickle",
+    "url": "https://www.mindtickle.com/careers/"
+  },
+  {
+    "company": "MobiKwik",
+    "url": "https://mobikwik.recruiterbox.com/"
+  },
+  {
+    "company": "Morgan Stanley",
+    "url": "https://www.morganstanley.com/people-opportunities/"
+  },
+  {
+    "company": "Mount talent",
+    "url": "https://careers.mounttalent.com/"
+  },
+  {
+    "company": "MPL",
+    "url": "https://mpl.darwinbox.in/ms/candidate/careers"
+  },
+  {
+    "company": "MTX",
+    "url": "https://www.mtxb2b.com/s/career"
+  },
+  {
+    "company": "Myntra",
+    "url": "https://careers.myntra.com/"
+  },
+  {
+    "company": "Nagarro",
+    "url": "https://www.nagarro.com/en/careers"
+  },
+  {
+    "company": "NASDAQ",
+    "url": "https://www.nasdaq.com/about/careers"
+  },
+  {
+    "company": "National instruments",
+    "url": "https://www.ni.com/en-in/about-ni/careers.html"
+  },
+  {
+    "company": "NatWest Group",
+    "url": "https://jobs.natwestgroup.com/search/jobs/in/country/india"
+  },
+  {
+    "company": "navi",
+    "url": "https://www.navifinserv.com/life-at-chaitanya"
+  },
+  {
+    "company": "NCR Corporation",
+    "url": "https://www.ncr.com/careers"
+  },
+  {
+    "company": "NetApp",
+    "url": "https://www.netapp.com/company/careers/"
+  },
+  {
+    "company": "Netcracker",
+    "url": "https://www.netcracker.com/careers/"
+  },
+  {
+    "company": "Netmeds",
+    "url": "https://netmeds.darwinbox.in/ms/candidate/careers"
+  },
+  {
+    "company": "Nike",
+    "url": "https://jobs.nike.com/"
+  },
+  {
+    "company": "Ninjacart",
+    "url": "https://ninjacart.in/careers/"
+  },
+  {
+    "company": "Nokia",
+    "url": "https://www.nokia.com/about-us/careers/"
+  },
+  {
+    "company": "nurture.farm",
+    "url": "https://nurture.farm/join-us/"
+  },
+  {
+    "company": "Nutanix",
+    "url": "https://www.nutanix.com/company/careers"
+  },
+  {
+    "company": "Nvidia",
+    "url": "https://www.nvidia.com/en-in/about-nvidia/careers/"
+  },
+  {
+    "company": "Nykaa",
+    "url": "https://www.nykaa.com/careers?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1AaeJPV4qukBH6DJnWPnJfUpAwGN9pMmMU6hYHyEfUELj3RNCKRkkBoCVHAQAvD_BwE&ef_id=CjwKCAiAv_KMBhAzEiwAs-rX1AaeJPV4qukBH6DJnWPnJfUpAwGN9pMmMU6hYHyEfUELj3RNCKRkkBoCVHAQAvD_BwE:G:s&s_kwcid=AL!599!3!560340772706!!!g!!&utm_source=GooglePaid&utm_medium=search&utm_campaign=adwords_search_dsa_full_site"
+  },
+  {
+    "company": "Obvious",
+    "url": "https://obvious.in/careers"
+  },
+  {
+    "company": "Ocrolus",
+    "url": "https://www.ocrolus.com/careers/"
+  },
+  {
+    "company": "Ola",
+    "url": "https://www.olacabs.com/careers"
+  },
+  {
+    "company": "Olx",
+    "url": "https://careers.olxgroup.com/"
+  },
+  {
+    "company": "Oracle",
+    "url": "https://www.oracle.com/apac/corporate/careers/"
+  },
+  {
+    "company": "OYO",
+    "url": "https://www.naukri.com/oyo-jobs-careers-2884032"
+  },
+  {
+    "company": "Observe.ai",
+    "url": "https://www.observe.ai/careers#section-current-openings"
+  },
+  {
+    "company": "OpenText",
+    "url": "https://careers.opentext.com/"
+  },
+  {
+    "company": "Optum",
+    "url": "https://www.optum.in/about/careers.html"
+  },
+  {
+    "company": "Optym",
+    "url": "https://optym.com/careers/"
+  },
+  {
+    "company": "Palo Alto Networks",
+    "url": "https://jobs.paloaltonetworks.com/en/"
+  },
+  {
+    "company": "Park+",
+    "url": "https://parkplus.io/we-are-hiring#hiring"
+  },
+  {
+    "company": "Paypal",
+    "url": "https://www.paypal.com/in/webapps/mpp/jobs"
+  },
+  {
+    "company": "Paytm",
+    "url": "https://paytm.com/careers/"
+  },
+  {
+    "company": "PayU",
+    "url": "https://payu.in/careers"
+  },
+  {
+    "company": "PeopleStrong",
+    "url": "https://www.peoplestrong.com/careers/"
+  },
+  {
+    "company": "persistent systems",
+    "url": "https://www.persistent.com/careers/"
+  },
+  {
+    "company": "PharmEasy",
+    "url": "https://pharmeasy.in/careers/"
+  },
+  {
+    "company": "Phillips",
+    "url": "https://www.careers.philips.com/professional/in/en"
+  },
+  {
+    "company": "Phonepe",
+    "url": "https://www.phonepe.com/careers/"
+  },
+  {
+    "company": "Playment",
+    "url": "https://www.playment.io/careers"
+  },
+  {
+    "company": "Polygon Technology",
+    "url": "https://polygon.technology/careers/"
+  },
+  {
+    "company": "postman",
+    "url": "https://www.postman.com/company/careers/"
+  },
+  {
+    "company": "Practo",
+    "url": "https://practo.app.param.ai/jobs"
+  },
+  {
+    "company": "priceline",
+    "url": "https://careers.priceline.com/search"
+  },
+  {
+    "company": "Principal",
+    "url": "https://www.principal.com/about-us/careers/global-jobs"
+  },
+  {
+    "company": "Privado.ai",
+    "url": "https://www.privado.ai"
+  },
+  {
+    "company": "Providence Healthcare",
+    "url": "https://www.providencehealthcare.org/careers"
+  },
+  {
+    "company": "Protegrity",
+    "url": "https://jobs.lever.co/protegrity?location=Bengaluru"
+  },
+  {
+    "company": "Proximity Labs",
+    "url": "https://www.proximity.tech/careers"
+  },
+  {
+    "company": "Prodapt",
+    "url": "https://www.prodapt.com/en/careers/"
+  },
+  {
+    "company": "Publicis Sapient",
+    "url": "https://careers.publicissapient.com/"
+  },
+  {
+    "company": "PubMatic",
+    "url": "https://pubmatic.com/careers/home/"
+  },
+  {
+    "company": "Qualcomm",
+    "url": "https://www.qualcomm.com/company/careers"
+  },
+  {
+    "company": "Quantiphi",
+    "url": "https://quantiphi.com/careers/"
+  },
+  {
+    "company": "QuickSell",
+    "url": "https://www.linkedin.com/company/quicksell/jobs/"
+  },
+  {
+    "company": "Quora",
+    "url": "https://www.quora.com/careers"
+  },
+  {
+    "company": "Ramp",
+    "url": "https://ramp.com/careers"
+  },
+  {
+    "company": "Razorpay",
+    "url": "https://razorpay.com/jobs/"
+  },
+  {
+    "company": "Red hat",
+    "url": "https://www.redhat.com/en/jobs"
+  },
+  {
+    "company": "Reelo",
+    "url": "https://angel.co/company/reelohq"
+  },
+  {
+    "company": "Reprise",
+    "url": "https://www.getreprise.com/careers/"
+  },
+  {
+    "company": "Rivigo",
+    "url": "https://www.rivigo.com/careers/"
+  },
+  {
+    "company": "Rocket Companies",
+    "url": "https://www.myrocketcareer.com/"
+  },
+  {
+    "company": "Rockstar Games",
+    "url": "https://www.rockstargames.com/careers/"
+  },
+  {
+    "company": "Rubrik",
+    "url": "https://www.rubrik.com/company/careers"
+  },
+  {
+    "company": "Saavan",
+    "url": "https://www.jiosaavn.com/corporate/jobs"
+  },
+  {
+    "company": "Sabre corporation",
+    "url": "https://www.sabre.com/careers/"
+  },
+  {
+    "company": "SalaryBox",
+    "url": "https://www.salarybox.in/careers"
+  },
+  {
+    "company": "Salesforce",
+    "url": "https://www.salesforce.com/company/careers/"
+  },
+  {
+    "company": "Samsung",
+    "url": "https://www.samsung.com/in/about-us/careers/"
+  },
+  {
+    "company": "SAP",
+    "url": "https://jobs.sap.com/"
+  },
+  {
+    "company": "SendinBlue",
+    "url": "https://jobs.sendinblue.com/en"
+  },
+  {
+    "company": "SerpApi",
+    "url": "https://serpapi.com/team"
+  },
+  {
+    "company": "ServiceNow",
+    "url": "https://www.servicenow.com/careers.html"
+  },
+  {
+    "company": "Shaadi.com",
+    "url": "https://www.naukri.com/"
+  },
+  {
+    "company": "ShareChat",
+    "url": "https://sharechat.com/careers"
+  },
+  {
+    "company": "Shell",
+    "url": "https://www.shell.com/careers.html"
+  },
+  {
+    "company": "Shipsy",
+    "url": "https://shipsy.io/career/"
+  },
+  {
+    "company": "Shopee",
+    "url": "https://careers.shopee.sg/"
+  },
+  {
+    "company": "Shopify",
+    "url": "https://www.shopify.com/careers"
+  },
+  {
+    "company": "Siemens",
+    "url": "https://new.siemens.com/global/en/company/jobs/our-locations/india.html"
+  },
+  {
+    "company": "Siemens Healthineers",
+    "url": "https://www.siemens-healthineers.com/en-in/careers"
+  },
+  {
+    "company": "Sigmoid",
+    "url": "https://www.sigmoid.com/careers/"
+  },
+  {
+    "company": "SkillVertex",
+    "url": "https://www.linkedin.com/jobs/search/?f_C=75860188&geoId=92000000"
+  },
+  {
+    "company": "Skyroot Aerospace",
+    "url": "https://skyroot.in/join/"
+  },
+  {
+    "company": "Sling Media",
+    "url": "https://www.linkedin.com/jobs/sling-media-jobs/?originalSubdomain=in"
+  },
+  {
+    "company": "Smith Detection",
+    "url": "https://www.smithsdetection.com/careers/"
+  },
+  {
+    "company": "Spinny",
+    "url": "https://spinny.freshteam.com/jobs"
+  },
+  {
+    "company": "Sprinklr",
+    "url": "https://www.sprinklr.com/careers/"
+  },
+  {
+    "company": "Squadstack",
+    "url": "https://www.squadstack.com/careers/"
+  },
+  {
+    "company": "Stripe",
+    "url": "https://stripe.com/in/jobs"
+  },
+  {
+    "company": "Swiggy",
+    "url": "https://careers.swiggy.com/"
+  },
+  {
+    "company": "Synopsys",
+    "url": "https://www.synopsys.com/careers.html"
+  },
+  {
+    "company": "Target",
+    "url": "https://corporate.target.com/careers"
+  },
+  {
+    "company": "TATA Advanced Sysytems Ltd",
+    "url": "https://www.tataadvancedsystems.com/careers.php"
+  },
+  {
+    "company": "TATA nexarc",
+    "url": "https://www.tatanexarc.com/careers/"
+  },
+  {
+    "company": "TE Connectivity",
+    "url": "https://careers.te.com/"
+  },
+  {
+    "company": "TEK Systems",
+    "url": "https://www.teksystems.com/en-in/careers"
+  },
+  {
+    "company": "Tekion corp",
+    "url": "https://tekion.com/careers"
+  },
+  {
+    "company": "Tesla",
+    "url": "https://www.tesla.com/careers"
+  },
+  {
+    "company": "Teradata",
+    "url": "https://careers.teradata.com/"
+  },
+  {
+    "company": "texas instruments",
+    "url": "https://careers.ti.com/"
+  },
+  {
+    "company": "ThoughtSpot",
+    "url": "https://www.thoughtspot.com/careers-listing"
+  },
+  {
+    "company": "thoughtWorks",
+    "url": "https://www.thoughtworks.com/careers/jobs"
+  },
+  {
+    "company": "Topcoder",
+    "url": "https://www.topcoder.com/company/jobs/"
+  },
+  {
+    "company": "Toptal",
+    "url": "https://www.toptal.com/careers"
+  },
+  {
+    "company": "tower research capital",
+    "url": "https://www.tower-research.com/positions"
+  },
+  {
+    "company": "Treebo Hotels",
+    "url": "https://www.linkedin.com/company/treebohotels/jobs/"
+  },
+  {
+    "company": "turvo",
+    "url": "https://turvo.com/careers/"
+  },
+  {
+    "company": "Twilio",
+    "url": "https://www.twilio.com/company/jobs"
+  },
+  {
+    "company": "Twitter",
+    "url": "https://careers.twitter.com/"
+  },
+  {
+    "company": "Uber",
+    "url": "https://www.uber.com/us/en/careers/"
+  },
+  {
+    "company": "Ubisoft",
+    "url": "https://www.ubisoft.com/en-us/company/careers"
+  },
+  {
+    "company": "Udaan",
+    "url": "https://careers.udaan.com/"
+  },
+  {
+    "company": "unacadamy",
+    "url": "https://unacademy.com/careers"
+  },
+  {
+    "company": "Unicommerce",
+    "url": "https://unicommerce.com/careers/"
+  },
+  {
+    "company": "Unisys",
+    "url": "https://jobs.unisys.com/us/en"
+  },
+  {
+    "company": "Upgrad",
+    "url": "https://www.upgrad.com/us/careers/"
+  },
+  {
+    "company": "Upstox",
+    "url": "https://jobs.lever.co/upstox"
+  },
+  {
+    "company": "Upwork",
+    "url": "https://www.upwork.com/careers"
+  },
+  {
+    "company": "Urban company",
+    "url": "https://careers.urbancompany.com/"
+  },
+  {
+    "company": "Valuefy",
+    "url": "https://valuefy-solutions.breezy.hr/"
+  },
+  {
+    "company": "Viasat",
+    "url": "https://careers.viasat.com/"
+  },
+  {
+    "company": "Vicara",
+    "url": "https://vicara.ch/careers/"
+  },
+  {
+    "company": "Visa",
+    "url": "https://www.visa.co.in/careers.html"
+  },
+  {
+    "company": "Vmware",
+    "url": "https://careers.vmware.com/main/"
+  },
+  {
+    "company": "Vogo",
+    "url": "https://vogo.in/careers/"
+  },
+  {
+    "company": "Walmart",
+    "url": "https://careers.walmart.com/technology"
+  },
+  {
+    "company": "Warner Bros.",
+    "url": "https://warnermediacareers.com/warner-bros-jobs"
+  },
+  {
+    "company": "Wells Fargo",
+    "url": "https://www.wellsfargo.com/about/careers/"
+  },
+  {
+    "company": "Western Digital",
+    "url": "https://jobs.westerndigital.com/"
+  },
+  {
+    "company": "Whatfix",
+    "url": "https://whatfix.com/careers/"
+  },
+  {
+    "company": "Wooqer",
+    "url": "https://wooqer.com/careers/"
+  },
+  {
+    "company": "worldQuant",
+    "url": "https://www.worldquant.com/careers/"
+  },
+  {
+    "company": "Xiaomi",
+    "url": "https://xiaomi.app.param.ai/jobs/"
+  },
+  {
+    "company": "Xicom Technologies",
+    "url": "https://www.xicom.biz/careers/"
+  },
+  {
+    "company": "Yahoo",
+    "url": "https://research.yahoo.com/careers"
+  },
+  {
+    "company": "yellow.ai",
+    "url": "https://yellow.ai/career"
+  },
+  {
+    "company": "yugabyte",
+    "url": "https://www.yugabyte.com/careers/"
+  },
+  {
+    "company": "Yulu Bikes",
+    "url": "https://www.yulu.bike/careers/"
+  },
+  {
+    "company": "zerodha",
+    "url": "https://careers.zerodha.com/"
+  },
+  {
+    "company": "Zeta",
+    "url": "https://careers.zeta.tech/work-with-us/"
+  },
+  {
+    "company": "ZivaMe",
+    "url": "https://careers.zivame.com/"
+  },
+  {
+    "company": "zoho",
+    "url": "https://careers.zohocorp.com/jobs/Careers"
+  },
+  {
+    "company": "Zomato",
+    "url": "https://www.zomato.com/careers"
+  },
+  {
+    "company": "ZoomCar",
+    "url": "https://www.zoomcar.com/careers"
+  },
+  {
+    "company": "ZS",
+    "url": "https://jobs.zs.com/all/jobs"
+  },
+  {
+    "company": "1 mg",
+    "url": "https://www.1mg.com/jobs"
+  },
+  {
+    "company": "314e Corporation",
+    "url": "https://www.314e.com/"
+  },
+  {
+    "company": "rules",
+    "url": "https://github.com/Kaustubh-Natuskar/companies-to-apply/blob/main/GUIDELINES.MD"
+  },
+  {
+    "company": "Kaustubh Natuskar",
+    "url": "https://www.linkedin.com/in/kaustubhnatuskar/"
+  }
+]

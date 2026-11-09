@@ -1,0 +1,39 @@
+{
+  "name": "job-alert-portal",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "db:setup": "dotenv -e .env -- tsx --tsconfig tsconfig.worker.json scripts/setup.ts",
+    "db:sample": "dotenv -e .env -- tsx --tsconfig tsconfig.worker.json scripts/setup.ts --sample",
+    "worker": "dotenv -e .env -- tsx --tsconfig tsconfig.worker.json worker/index.ts"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.0",
+    "@react-email/components": "^0.0.25",
+    "bullmq": "^5.12.0",
+    "clsx": "^2.1.1",
+    "inngest": "^3.22.0",
+    "ioredis": "^5.4.1",
+    "next": "14.2.15",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "resend": "^4.0.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.20",
+    "dotenv-cli": "^7.4.2",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.4"
+  }
+}

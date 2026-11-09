@@ -1,0 +1,132 @@
+# ═══════════════════════════════════════════════════════════════════════════════
+# profile.yaml  —  Your Personal Job Matching Rules
+#
+# EDIT THIS FILE freely — the crawler re-reads it on every run.
+# No restart needed.
+#
+# HOW A JOB PASSES:
+#   1. Not blocked by exclude_keywords
+#   2. Title or description contains at least one keyword OR job_title entry
+#   3. Location matches at least one entry  (remote always passes if list is set)
+#   4. Experience level is in experience_levels
+#   5. If companies list is non-empty, company must be in it
+#
+# Leave any list as []  to disable that filter entirely (all values pass).
+# ═══════════════════════════════════════════════════════════════════════════════
+
+name: "deekshith"
+description: "B.Tech CSE fresher — Java, Spring Boot, Node.js, backend focus. Bengaluru / Hyderabad only."
+
+# ── KEYWORDS ──────────────────────────────────────────────────────────────────
+# Job title OR description must contain at least one. Case-insensitive, partial.
+keywords:
+  - "java"
+  - "spring boot"
+  - "spring mvc"
+  - "hibernate"
+  - "backend"
+  - "node.js"
+  - "nodejs"
+  - "express"
+  - "rest api"
+  - "microservices"
+  - "software engineer"
+  - "software developer"
+  - "full stack"
+  - "fullstack"
+  - "devops"
+  - "kubernetes"
+  - "docker"
+  - "aws"
+  - "cloud engineer"
+  - "site reliability"
+
+# ── JOB TITLES ────────────────────────────────────────────────────────────────
+# If ANY of these appear in the job title it passes, even if keywords don't.
+# Add any role you're specifically targeting here.
+job_titles:
+  - "software engineer"
+  - "software developer"
+  - "backend developer"
+  - "backend engineer"
+  - "full stack developer"
+  - "full stack engineer"
+  - "java developer"
+  - "java engineer"
+  - "associate software engineer"
+  - "associate engineer"
+  - "graduate engineer trainee"
+  - "get"
+  - "sde"
+  - "sde-1"
+  - "sde 1"
+  - "junior developer"
+  - "junior engineer"
+  - "junior software engineer"
+  - "entry level engineer"
+  - "devops engineer"
+  - "platform engineer"
+  - "cloud engineer"
+  - "site reliability engineer"
+  - "sre"
+
+# ── LOCATIONS ─────────────────────────────────────────────────────────────────
+# Job location must contain at least one of these strings (case-insensitive).
+# "remote" jobs always pass through when this list is non-empty.
+# EDIT: add or remove cities as needed.
+locations:
+  - "bengaluru"
+  - "bangalore"
+  - "hyderabad"
+  - "remote"
+
+# ── EXPERIENCE LEVELS ─────────────────────────────────────────────────────────
+# Allowed values: fresher  junior  mid  senior  lead  unknown
+# Jobs without a detected experience level are excluded.
+experience_levels:
+  - "fresher"
+  - "junior"
+
+# ── COMPANY WHITELIST ─────────────────────────────────────────────────────────
+# Leave as []  to crawl ALL companies.
+# If non-empty, only jobs from these companies pass through.
+companies: []
+
+# ── EXCLUDE KEYWORDS ──────────────────────────────────────────────────────────
+# If any of these appear anywhere in the title or description, the job is dropped.
+# Case-insensitive, partial match.
+exclude_keywords:
+  - "8+ years"
+  - "10+ years"
+  - "12+ years"
+  - "15+ years"
+  - "director"
+  - "vice president"
+  - "vp of"
+  - "chief"
+  - "cto"
+  - "ceo"
+  - "head of engineering"
+  - "data scientist"
+  - "ml engineer"
+  - "machine learning engineer"
+  - "ai researcher"
+  - "research scientist"
+  - "ios developer"
+  - "ios engineer"
+  - "android developer"
+  - "android engineer"
+  - "flutter developer"
+  - "react native"
+  - "ruby on rails"
+  - "golang developer"
+  - "rust developer"
+  - "mainframe"
+  - "cobol"
+  - "sap consultant"
+  - "salesforce developer"
+  - "embedded systems"
+  - "firmware engineer"
+  - "hardware engineer"
+  - "mechanical engineer"
+  - "civil engineer"
